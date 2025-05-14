@@ -13,11 +13,14 @@ This is a photo gallery that showcases my use of colour schemes and Flexbox with
 1. Fix aspect ratio of page
 2. Change background colour to increase visibility in dark mode
 ### Code review (14th May)
-Find the code review markdown file within the same folder
+Find the code review markdown file within the same folder <br>
 **bold text**<br>
 *italic*<br>
 ~~strikethrough~~ <br>
-'''<p>block</p>''' <br>
+'''
+<p>block</p>
+'''
+<br>
 # 1st Heading
 
 ## 2nd Heading
